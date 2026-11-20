@@ -1,0 +1,11 @@
+Goal: (One sentence) 
+Rules: (3 to 7 bullets) 
+Examples: (2 examples: input → output)
+
+Edge cases: (2 cases that can break it) Deliver:
+
+- one runnable file
+- include tests using Node assert
+- print one example output
+
+Then ask: Before giving code, list the possible mistakes and confirm the rules.
